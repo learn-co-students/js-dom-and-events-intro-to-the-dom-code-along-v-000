@@ -70,6 +70,7 @@ in-browser IDE, you can use `open index.html` in the folder you're working on
 to open up a copy of the file in your browser).
 
 Just to speed things up a bit, paste the following code into the file:
+Changing the text/////////
 
 ```html
 <!DOCTYPE html>
