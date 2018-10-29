@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-We've started looking at the DOM and its structure. Now it's time to see what we
+We've starte looking at the DOM and its structure. Now it's time to see what we
 can do with it.
 
 ## Objectives
