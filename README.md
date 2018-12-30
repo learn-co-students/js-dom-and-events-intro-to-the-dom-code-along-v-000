@@ -82,6 +82,7 @@ Just to speed things up a bit, paste the following code into the file:
 </head>
 <body>
   <!--All our work for this lesson will go here-->
+  <h1>My HTML adventure</h1>
 </body>
 </html>
 ```
@@ -193,4 +194,3 @@ Finally, we practiced working directly with the DOM.
 
 [html-block-elements]: https://developer.mozilla.org/en/docs/Web/HTML/Block-level_elements
 [html-inline-elements]: https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
-
